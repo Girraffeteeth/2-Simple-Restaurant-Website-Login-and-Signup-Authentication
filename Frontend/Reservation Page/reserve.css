@@ -1,0 +1,76 @@
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;
+    background-image: url('https://images.unsplash.com/photo-1592417817098-8fd3d9eb14a5?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'); /* Replace 'path/to/your/image.jpg' with the actual path to your image */
+    background-size: cover; 
+    background-position: center; 
+}
+
+h1 {
+    color: #080808;
+}
+
+form {
+    max-width: 400px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(8, 0, 0, 0.1);
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    color: #010101;
+}
+
+input, select, button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    transition: border-color 0.3s;
+}
+
+input:focus, select:focus {
+    border-color: #16a083;
+}
+
+button {
+    background-color: #16a083;
+    color: #fff;
+    cursor: pointer;
+    padding: 10px 14px; /* Adjust padding for a smaller button */
+    border-radius: 20px; /* Make the button rounded */
+}
+
+button:hover {
+    background-color: #117964; /* Darker shade on hover */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #16a083;
+    color: #fff;
+}
+
+tbody tr:hover {
+    background-color: #f5f5f5;
+    transition: background-color 0.3s;
+}
+
