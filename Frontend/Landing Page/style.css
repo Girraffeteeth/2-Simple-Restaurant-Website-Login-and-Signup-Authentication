@@ -34,6 +34,7 @@ body {
   margin-top: 1em;
   text-transform: uppercase;
   font-weight: small;
+  margin-right: 10px;
 }
 
 .btn-primary {
@@ -61,7 +62,7 @@ body {
   width: 100%;
   background: #fff;
   color: #000;
-  opacity: 0.85;
+  opacity: 0.05;
   height: 50px;
   z-index: 12;
 }
