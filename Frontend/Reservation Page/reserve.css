@@ -2,7 +2,7 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 20px;
-    background-image: url('https://images.unsplash.com/photo-1592417817098-8fd3d9eb14a5?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'); /* Replace 'path/to/your/image.jpg' with the actual path to your image */
+    background-image: url('https://images.unsplash.com/photo-1534352211968-8d25dbe0e951?q=80&w=1929&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'); 
     background-size: cover; 
     background-position: center; 
 }
@@ -44,12 +44,12 @@ button {
     background-color: #16a083;
     color: #fff;
     cursor: pointer;
-    padding: 10px 14px; /* Adjust padding for a smaller button */
-    border-radius: 20px; /* Make the button rounded */
+    padding: 10px 14px;
+    border-radius: 20px;
 }
 
 button:hover {
-    background-color: #117964; /* Darker shade on hover */
+    background-color: #117964;
 }
 
 table {

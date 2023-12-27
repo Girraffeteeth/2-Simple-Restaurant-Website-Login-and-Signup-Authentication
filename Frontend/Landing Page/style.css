@@ -47,9 +47,7 @@ body {
   transition: background 0.3s ease-in-out;
 }
 
-/* ............/navbar/............ *
 
-/* desktop mode............/// */
 
 .navbar input[type="checkbox"],
 .navbar .hamburger-lines {
@@ -104,7 +102,6 @@ body {
   margin-bottom: 0.5rem;
 }
 
-/* ............//// Showcase styling ////......... */
 
 .showcase-area {
   height: 50vh;
@@ -132,7 +129,7 @@ body {
   margin-top: 1.5em;
 }
 
-/* ......//about us//...... */
+
 
 #about {
   padding: 50px 0;
@@ -195,7 +192,7 @@ body {
   object-position: right;
 }
 
-/* ..........////Food category///........... */
+
 
 #food {
   padding: 5rem 0 10rem 0;
@@ -276,7 +273,7 @@ body {
   top: 40%;
 }
 
-/* .........../Food Menu/............ */
+
 
 .food-menu-heading {
   text-align: center;
@@ -328,7 +325,7 @@ body {
   font-weight: 700;
 }
 
-/* ........./ Testimonial /.......... */
+
 
 #testimonials {
   padding: 5rem 0;
@@ -373,7 +370,7 @@ body {
   margin: auto;
 }
 
-/* ........ Contact Us........... */
+
 
 #contact {
   padding: 5rem 0;
@@ -448,7 +445,7 @@ body {
   background: rgb(65, 65, 65);
 }
 
-/* ......../ media query /.......... */
+
 
 @media (max-width: 768px) {
   .navbar {
@@ -555,7 +552,7 @@ body {
     transform: rotate(-35deg);
   }
 
-  /* ......./ food /......... */
+  
 
   .food-container {
     flex-direction: column;
